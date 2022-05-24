@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @coding-yost
 - 👀 I’m interested in getting better at coding and exploring the culture of coding
-- 🌱 I’m currently learning React
-- 📫 How to reach me codiyost@gmail.com
+- 🌱 I’m currently learning React, javascript and Front End Web Development
+- 📫 How to reach me: codiyost@gmail.com
