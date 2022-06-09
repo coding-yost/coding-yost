@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @coding-yost
-- 👀 I’m interested in getting better at coding and exploring the culture of coding
-- 🌱 I’m currently learning React, javascript and Front End Web Development
+- 🔧 I work at The Center of Geospacial Science and Technology at CSUN as a student developer.
+- 👀 I’m interested in getting better at coding and exploring the culture of coding.
+- 🌱 I’m currently learning React, javascript and Front End Web Development.
 - 📫 How to reach me: codiyost@gmail.com
