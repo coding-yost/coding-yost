@@ -1,4 +1,4 @@
-# Lab grown, guilt free recursive black hole.
+# Lab grown, guilt free, recursive, black hole.
 
 ## Interested in: 
   ### long walks on the beach, 
