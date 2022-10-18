@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @coding-yost
-- 🔧 I work at The Center of Geospacial Science and Technology at CSUN as a student developer.
-- 👀 I’m interested in getting better at coding and exploring the culture of coding.
-- 🌱 I’m currently learning React, javascript and Front End Web Development.
-- 📫 How to reach me: codiyost@gmail.com
+Lab grown, guilt free recursive black hole.
+
+Interested in: 
+  long walks on the beach, 
+  listening to white noise while staring at walls and 
+  exchanging input for output.
+  
+History in:
+  breaking things and putting them back together with spit, gaffe tape, and terrified hope
+  putting broken things back where I found them in a state where they don't look broken but fall apart when someone else touches them so it's their fault
+  eating the last slice of pizza
+  
+Hopes to learn:
+  How to use the oven without government oversight
+  thoughtcrime
+  regular crime.
