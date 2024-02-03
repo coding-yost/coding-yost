@@ -3,7 +3,7 @@
 ## Interested in: 
   ### long walks on the beach, 
   ### listening to white noise while staring at walls and 
-  ### exchanging input for output.
+  ### exchanging output for input.
   
 ## History in:
   ### breaking things and putting them back together with spit, gaffe tape, and terrified hope
